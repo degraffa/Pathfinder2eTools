@@ -1,5 +1,6 @@
 <template>
 <section>
+    <img alt="Vue logo" src="../assets/pf2e-logo.png">
     <div class="buttons">
         <b-button type="is-dark" size="is-large" expanded> New Character </b-button>
         <b-button type="is-dark" size="is-large" expanded> Load Character </b-button>

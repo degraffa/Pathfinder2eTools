@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/pf2e-logo.png">
+    
     <CharacterSelect />
   </div>
 </template>
